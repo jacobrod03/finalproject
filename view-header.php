@@ -22,6 +22,9 @@
         <li class="nav-item">
           <a class="nav-link" href="about-us.php">About Us</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="employee.php">Employee</a>
+        </li>
       </ul>
     </div>
   </div>
