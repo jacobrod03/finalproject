@@ -20,7 +20,7 @@ while ($team = $teams->fetch_assoc()) {
     <td>
       <form method="post" action="company-by-teams.php">
         <input type="hidden" name="tid" value="<?php echo $team['team_id']; ?>">
-        <button type="submit" class="btn btn-primary">Companies</button>
+        <button type="submit" class="btn btn-primary">Company</button>
         </form>
     </td>
   </tr>
