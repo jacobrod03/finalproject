@@ -23,6 +23,7 @@
             <label for="tDesc" class="form-label">Team description</label>
             <input type="text" class="form-control" id="tDesc" name="tDesc">
           </div>
+            <input type="hidden" name="actionType" value="Add">
           <button type="submit" class="btn btn-primary">Save</button>
         </form>
       </div>
