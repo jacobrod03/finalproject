@@ -8,7 +8,7 @@ include "view-header.php";
 if (isset($_POST['actionType'])) {
   switch ($_POST['actionType']) {
     case "Add":
-      insertEmployee($_POST['eName'], $_POST['ePhone']);
+      insertEmployees($_POST['eName'], $_POST['ePhone']);
       break;
   }
 }
