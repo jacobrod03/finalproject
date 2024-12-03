@@ -12,7 +12,7 @@
     </thead>
     <tbody>
 <?php
-while ($company = $company ->fetch_assoc()) {
+while ($company = $companys ->fetch_assoc()) {
   ?>
   <tr>
     <td><?php echo $company['team_id']; ?></td>
