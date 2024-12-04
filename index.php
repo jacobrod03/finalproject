@@ -12,7 +12,7 @@ include "view-header.php";
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://tenor.com/view/apply-today-apply-today-ice-group-galway-gif-16159688.gif');
+            background-image: url('https://giphy.com/gifs/mvcc-moraine-valley-community-college-kp2mGWVEBwrJEUcATZ.gif');
             background-size: 100%;
             background-repeat: no-repeat;
             background-position: center;
