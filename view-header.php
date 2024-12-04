@@ -28,6 +28,9 @@
         <li class="nav-item">
           <a class="nav-link" href="employees-with-teams.php">Employees with teams</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="employees-chart.php">Employees chart</a>
+        </li>
       </ul>
     </div>
   </div>
