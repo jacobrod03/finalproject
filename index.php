@@ -15,15 +15,15 @@ include "view-header.php";
             background-image: url('https://tenor.com/view/apply-today-apply-today-ice-group-galway-gif-16159688.gif');
             background-size: 100%;
             background-repeat: no-repeat;
-            background-position: center calc(2in);
+            background-position: center;
             height: 100vh;
             color: yellow; //adjust color for readability
             font-family: Arial, sans-serif;
         }
         h1 {
             position: absolute; 
-            top: 8px; 
-            left: 10px; 
+            top: 10px; 
+            left: 5px; 
             margin: 0; 
             font-size: 1.5rem;
         }
