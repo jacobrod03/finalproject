@@ -27,7 +27,7 @@ include "view-header.php";
     </style>
 </head>
 <body>
-    <h1>MIS 4013 Final Project</h1>
+    <h1></h1>
 </body>
 </html>
 <?php 
