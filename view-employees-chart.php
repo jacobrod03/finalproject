@@ -25,7 +25,7 @@ while ($employee = $employees->fetch_assoc()) {
 <?php
 $employees = selectEmployees();
 while ($employee = $employees->fetch_assoc()) {
-  echo "'" $employee['employee_name'] . "', ";
+  echo "'" . $employee['employee_name'] . "', ";
 }
 ?> 
     ]
