@@ -12,7 +12,7 @@ include "view-header.php";
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnZHJseW93djN4bjVtYnd5ajg5eGNyZWFnNmFsODhlZ2hxM2g5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RiykPw9tgdOylwFgUe/giphy.gif');
+            background-image: url('https://tenor.com/view/apply-today-apply-today-ice-group-galway-gif-16159688');
             background-size: 100%;
             background-repeat: no-repeat;
             background-position: center center;
