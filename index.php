@@ -12,7 +12,7 @@ include "view-header.php";
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://giphy.com/gifs/mvcc-moraine-valley-community-college-kp2mGWVEBwrJEUcATZ.gif');
+            background-image: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM1dWRmdWM3YWNtd3Q2MG1qcDlzN2VzbjBxZmV6ejJ1Mjh1aTRvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qNLVw5pjdIS10cItDe/giphy.webp');
             background-size: 100%;
             background-repeat: no-repeat;
             background-position: center;
