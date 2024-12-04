@@ -17,7 +17,7 @@ include "view-header.php";
             background-repeat: no-repeat;
             background-position: center;
             height: 100vh;
-            color: black; //adjust color for readability
+            color: dark green; //adjust color for readability
             font-family: Arial, sans-serif;
         }
         h1 {
@@ -30,7 +30,7 @@ include "view-header.php";
     </style>
 </head>
 <body>
-    <h1>Final Project</h1>
+    <h1>MIS 4013 Final Project</h1>
 </body>
 </html>
 <?php 
