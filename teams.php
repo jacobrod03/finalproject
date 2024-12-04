@@ -15,7 +15,7 @@ include "view-header.php";
         body {
             margin: 0;
             padding: 0;
-            background-color: #FFE5B4; /* Light orange background */
+            background-color: #DFF2FF; /* Light blue background */
             font-family: Arial, sans-serif;
         }
         .alert {
