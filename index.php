@@ -16,6 +16,7 @@ include "view-header.php";
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
+            height: 100vh;
             color: yellow; //adjust color for readability
             font-family: Arial, sans-serif;
         }
