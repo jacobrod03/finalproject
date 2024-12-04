@@ -24,7 +24,7 @@
             <input type="text" class="form-control" id="ePhone<?php echo $employee['employee_id']; ?>" name="ePhone" value="<?php echo $employee['phone_number']; ?>">
           </div>
         <input type="hidden" name="eid" value="<?php echo $employee['employee_id']; ?>">
-        <input type="hidden" name="actionType" value="Add">
+        <input type="hidden" name="actionType" value="Edit">
           <button type="submit" class="btn btn-primary">Save</button>
         </form> 
       </div>
