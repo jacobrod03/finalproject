@@ -17,7 +17,7 @@ include "view-header.php";
             background-repeat: no-repeat;
             background-position: center;
             height: 100vh;
-            color: dark green; //adjust color for readability
+            color: green; //adjust color for readability
             font-family: Arial, sans-serif;
         }
         h1 {
