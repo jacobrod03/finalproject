@@ -18,7 +18,7 @@ include "view-header.php";
             background-position: center;
             height: 100vh;
             color: yellow; //adjust color for readability
-            font-family: AntonSC, sans-serif;
+            font-family: Lora, sans-serif;
         }
         h1 {
             text-align: center;
