@@ -17,13 +17,13 @@ include "view-header.php";
             background-repeat: no-repeat;
             background-position: center;
             height: 100vh;
-            color: yellow; //adjust color for readability
+            color: black; //adjust color for readability
             font-family: Arial, sans-serif;
         }
         h1 {
             position: absolute; 
             top: 10px; 
-            left: 5px; 
+            right: 10px; 
             margin: 0; 
             font-size: 1.5rem;
         }
