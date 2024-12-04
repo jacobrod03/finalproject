@@ -31,6 +31,9 @@
         <li class="nav-item">
           <a class="nav-link" href="employees-chart.php">Employees chart</a>
         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="contact-us.php">Contact Us!</a>
+        </li>
       </ul>
     </div>
   </div>
