@@ -12,7 +12,7 @@ include "view-header.php";
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://www.behance.net/gallery/113995595/Looking-for-a-Job-Were-Hiring/modules/651157507');
+            background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnZHJseW93djN4bjVtYnd5ajg5eGNyZWFnNmFsODhlZ2hxM2g5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RiykPw9tgdOylwFgUe/giphy.gif');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
