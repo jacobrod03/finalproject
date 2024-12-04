@@ -1,6 +1,6 @@
 <?php
 require_once("util-db.php");
-require_once("model-employees-chart-db.php");
+require_once("employees-chart-db.php");
 
 $pageTitle = "Employees chart";
 include "view-header.php";
