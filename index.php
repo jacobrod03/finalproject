@@ -13,7 +13,7 @@ include "view-header.php";
             margin: 0;
             padding: 0;
             background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l3eGYxOXY0OXBwcHE0emxtZXhjODlrYW5vZXRpMDNmOHBremlyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RiykPw9tgdOylwFgUe/giphy.gif');
-            background-size: 100%;
+            background-size: 50%;
             background-repeat: no-repeat;
             background-position: center;
             height: 100vh;
