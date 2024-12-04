@@ -22,7 +22,7 @@ include "view-header.php";
         }
         h1 {
             position: absolute; 
-            top: 10px; 
+            top: 8px; 
             left: 10px; 
             margin: 0; 
             font-size: 1.5rem;
