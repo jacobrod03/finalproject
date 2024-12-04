@@ -16,19 +16,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mx-auto mb-2 mb-lg-0 justify-content-center">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">Home</a>
+          <a class="nav-link active fw-bold" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="employees.php">Employees</a>
+          <a class="nav-link fw-bold" href="employees.php">Employees</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="teams.php">Teams</a>
+          <a class="nav-link fw-bold" href="teams.php">Teams</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="employees-with-teams.php">Employees with teams</a>
+          <a class="nav-link fw-bold" href="employees-with-teams.php">Employees with teams</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="employees-chart.php">Employees chart</a>
+          <a class="nav-link fw-bold" href="employees-chart.php">Employees chart</a>
         </li>
       </ul>
     </div>
