@@ -21,13 +21,16 @@ include "view-header.php";
             font-family: Arial, sans-serif;
         }
         h1 {
-            text-align: center;
-            padding-top: 30%;
+            position: absolute; 
+            top: 10px; 
+            left: 10px; 
+            margin: 0; 
+            font-size: 1.5rem;
         }
     </style>
 </head>
 <body>
-    <h1></h1>
+    <h1>Final Project</h1>
 </body>
 </html>
 <?php 
