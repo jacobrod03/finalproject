@@ -1,4 +1,4 @@
-<h1>Employees</h1>
+<h1>Chart of employees</h1>
 <div>
   <canvas id="myChart" width="300" height="300"></canvas>
 </div>
