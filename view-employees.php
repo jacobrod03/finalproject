@@ -27,7 +27,9 @@ while ($employee = $employees->fetch_assoc()) {
     <td><?php echo $employee['employee_name']; ?></td>
     <td><?php echo $employee['phone_number']; ?></td>
     <td>
-      
+<?php
+include "view-employees-editform.php";
+?>
     </td>
     <td>
       <form method="post" action="">
