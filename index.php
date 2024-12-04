@@ -15,7 +15,7 @@ include "view-header.php";
             background-image: url('https://tenor.com/view/apply-today-apply-today-ice-group-galway-gif-16159688.gif');
             background-size: 100%;
             background-repeat: no-repeat;
-            background-position: center center;
+            background-position: center calc(2in);
             height: 100vh;
             color: yellow; //adjust color for readability
             font-family: Arial, sans-serif;
