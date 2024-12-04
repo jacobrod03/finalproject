@@ -28,7 +28,6 @@ include "view-header.php";
 </head>
 <body>
     <h1>MIS 4013 Final Project</h1>
-    <h1>By: Jacob Rodriguez</h1>
 </body>
 </html>
 <?php 
