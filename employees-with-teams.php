@@ -16,7 +16,7 @@ include "view-header.php";
             margin: 0;
             padding: 0;
             background-image: url('https://media.giphy.com/media/nL2zibS5D4iGhDOt9Q/giphy.gif');
-            background-size: cover;
+            background-size: 90%;
             background-repeat: no-repeat;
             background-position: center;
             height: 100vh;
