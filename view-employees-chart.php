@@ -8,7 +8,7 @@
   const ctx = document.getElementById('myChart');
 
   new Chart(ctx, {
-    type: 'pie',
+    type: 'doughnut',
     data: {
     datasets: [{
         data: [
