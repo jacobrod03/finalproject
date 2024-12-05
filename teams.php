@@ -36,6 +36,9 @@ include "view-header.php";
             color: #721c24;
             border: 1px solid #f5c6cb;
         }
+        .bold-text {
+            font-weight: bold; /* Ensures "Teams" text is bold */
+        }
     </style>
 </head>
 <body>
