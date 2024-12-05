@@ -33,7 +33,7 @@ while ($employee = $employees->fetch_assoc()) {
       options: {
       responsive: true,
       maintainAspectRatio: true,
-      aspectRatio: 1, // Adjusted to shrink the chart size
+      aspectRatio: 2.5, // Adjusted to shrink the chart size
     }
   });
 </script>
