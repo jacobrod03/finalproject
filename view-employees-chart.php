@@ -1,6 +1,6 @@
 <h1>Chart of employees</h1>
 <div>
-  <canvas id="myChart" width="100" height="100"></canvas>
+  <canvas id="myChart" width="300" height="300"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
@@ -33,7 +33,7 @@ while ($employee = $employees->fetch_assoc()) {
       options: {
       responsive: true,
       maintainAspectRatio: true,
-      aspectRatio: 1.5, // Adjusted to shrink the chart size
+      aspectRatio: 1, // Adjusted to shrink the chart size
     }
   });
 </script>
